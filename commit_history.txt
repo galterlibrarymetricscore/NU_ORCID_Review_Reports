@@ -1,0 +1,263 @@
+commit bbc2c0fe77d428a10ea3fc74b08b633ee3930266
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Mon Feb 10 14:14:54 2025 -0600
+
+    updating charts
+
+commit 0fb58f00382257e87f703d5cc7e7c74ad2ff42f2
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Mon Jan 13 16:32:54 2025 -0600
+
+    updating for January 2025 report
+
+commit 572806a091473561c4cee1c45e19d2816f5a1983
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Mon Oct 14 11:09:37 2024 -0500
+
+    removing notebook
+
+commit 1b56e6aacf191d84c8c6e04e08109a18da8235f4
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Mon Oct 14 09:08:32 2024 -0500
+
+    updating output
+
+commit 35e4879e15a85547225d88603378953691b322a2
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Mon Oct 14 09:06:05 2024 -0500
+
+    removing cells
+
+commit 1b501f631b29136657bb65d355841ad7579a74c6
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Fri Oct 11 14:41:24 2024 -0500
+
+    updating charts again
+
+commit 855d5241bd7e0988f0b0d020f0f2b5dc9e4b45a4
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Fri Oct 11 14:38:12 2024 -0500
+
+    updating notebooks with charts
+
+commit 1532e971ac34011f1c36d1fb7f473fca0ad2cd5e
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Fri Sep 27 12:58:04 2024 -0500
+
+    updating quarterly report
+
+commit 772849caa2f3632535b1bd649dd6a62017b45842
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Fri Sep 27 12:43:00 2024 -0500
+
+    updating quarterly report
+
+commit 5248cf0695c184fd1dac900319305c7dfbc99265
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Tue Sep 24 10:42:05 2024 -0500
+
+    fixing some issues with retirees
+
+commit 4d1f3ed99810dadff7999091b89cc58617927d8e
+Author: Karen Gutzman <karen.gutzman@northwestern.edu>
+Date:   Mon Sep 23 13:23:51 2024 -0500
+
+    Update README.md
+
+commit 025b47dc8a1c2480e74cc79cfa5bfaa6d5c96633
+Author: Karen Gutzman <karen.gutzman@northwestern.edu>
+Date:   Mon Sep 23 13:20:27 2024 -0500
+
+    Update README.md
+
+commit 6e177d0e2335f52597bdf642d43fb380ba13983f
+Author: Karen Gutzman <karen.gutzman@northwestern.edu>
+Date:   Mon Sep 23 13:18:40 2024 -0500
+
+    Update README.md
+
+commit ef5d20657cd7df07287d4b89d15140c03ed136c4
+Author: Karen Gutzman <karen.gutzman@northwestern.edu>
+Date:   Mon Sep 23 13:17:37 2024 -0500
+
+    Update README.md
+
+commit 1e037bda76657691415b355db6a5a330f24d2e33
+Author: Karen Gutzman <karen.gutzman@northwestern.edu>
+Date:   Mon Sep 23 13:17:15 2024 -0500
+
+    Update README.md
+
+commit 2cbf6a761c5b71fc778247a6ea6132a43a14455e
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Mon Sep 23 13:00:29 2024 -0500
+
+    udating for quarterly report
+
+commit 949f31b8406c13689d241d503ae1fcef2c9029ca
+Author: Karen Gutzman <karen.gutzman@northwestern.edu>
+Date:   Mon Sep 23 12:59:07 2024 -0500
+
+    Update .gitignore
+
+commit 7444624d1068ebe01d0681e5d3a7c9e5f8142746
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Tue Mar 19 16:14:19 2024 -0500
+
+    adding elements reporting database query
+
+commit 5dc1c874b0a2cd6ac3c31daa43e32c3da42b6137
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Tue Mar 19 16:13:42 2024 -0500
+
+    newest version of ORCID Data Analysis for NU
+
+commit a0457b51fc70db77073d4ea42c4d24474f6c3468
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Tue Mar 19 16:13:02 2024 -0500
+
+    updating FSM code
+
+commit 120aee384e62e84d529b4c3c0a4f2c8329c38363
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Tue Mar 19 16:12:30 2024 -0500
+
+    updating API code
+
+commit 72582136955debc6d78f7a86752d5c3b6f15b198
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Tue Mar 19 16:08:12 2024 -0500
+
+    updating api request
+
+commit b16b11b1973e7fc3afec46e24b17b4c9fb806778
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Fri Mar 1 13:39:01 2024 -0600
+
+    updating Membership API code
+
+commit edd4d435ffff56ce576e94c5d6d0c1c98264b8ef
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Fri Mar 1 13:23:05 2024 -0600
+
+    updating member API pathway
+
+commit 189efe74f6162b12df6f70356f9663908686e008
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Thu Feb 15 17:21:37 2024 -0600
+
+    updating for 2024 data
+
+commit 5c03040cac539ed7e55859bc22900341bddef8f2
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Thu Feb 15 17:21:01 2024 -0600
+
+    updating for 2024 data
+
+commit b101d8214bcc5057e93aea1faac439b54936a984
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Thu Feb 15 17:19:28 2024 -0600
+
+    updating for 2024 data
+
+commit 1e97eb009c8a1317f1d59e0ace8f8944196a70f4
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Thu Feb 15 17:13:14 2024 -0600
+
+    updating analysis for 2024)
+
+commit f2bde43c1d13a896bf5b93c95e6375065c71376c
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Wed Dec 14 11:38:09 2022 -0600
+
+    adding new updates
+
+commit 98745663c12df55950d7ac4bee802c7999dc33eb
+Author: Karen E Gutzman <keg827@fsm.northwestern.edu>
+Date:   Wed Dec 14 11:37:33 2022 -0600
+
+    adding new changes
+
+commit d832b9da9d98142f61371b42dc823ccfed854096
+Author: kglibrarian <karen.gutzman@northwestern.edu>
+Date:   Mon Jan 10 18:24:33 2022 -0600
+
+    making changes to charts
+
+commit 69d788296f86b0cc26241c8fe0d7b8f73eeed5bb
+Author: kglibrarian <karen.gutzman@northwestern.edu>
+Date:   Sun Jan 9 20:00:53 2022 -0600
+
+    adding data labels to bar graph
+
+commit 2a08072040834363dfa63974b85110b939812e78
+Author: kglibrarian <karen.gutzman@northwestern.edu>
+Date:   Sun Jan 9 12:05:45 2022 -0600
+
+    adding filter for position type
+
+commit 98a21b75760877fe1453b2eee6f6098f92c5fea7
+Author: kglibrarian <karen.gutzman@northwestern.edu>
+Date:   Thu Jan 6 17:15:25 2022 -0600
+
+    fixing clustered bar chart
+
+commit 39ee20c72df395f27ac0f0ef6b56e3f81cfada09
+Author: kglibrarian <karen.gutzman@northwestern.edu>
+Date:   Wed Jan 5 16:57:19 2022 -0600
+
+    adding charts
+
+commit d44645d2124e3f8c197eca1110751d62c3a2ec21
+Author: kglibrarian <karen.gutzman@northwestern.edu>
+Date:   Wed Jan 5 08:20:35 2022 -0600
+
+    made changes
+
+commit 22c84644ffc55ee9a607def0332e6eef5b8dd7de
+Author: kglibrarian <karen.gutzman@northwestern.edu>
+Date:   Tue Jan 4 07:56:46 2022 -0600
+
+    adding new analysis
+
+commit 585127e04b61d468f8c1d7e2ac4b88da5cb11347
+Author: kglibrarian <karen.gutzman@northwestern.edu>
+Date:   Mon Dec 27 16:57:43 2021 -0600
+
+    adding elements publication data
+
+commit 6883d06a66e701766a5f939aef4c5291c5a4386e
+Author: kglibrarian <karen.gutzman@northwestern.edu>
+Date:   Sun Dec 26 12:50:20 2021 -0600
+
+    adding charts
+
+commit 8575b12751c27864315a59c53a09a6d609ab9c3e
+Author: kglibrarian <karen.gutzman@northwestern.edu>
+Date:   Fri Dec 24 12:58:41 2021 -0600
+
+    adding data analysis
+
+commit 455f9249a9830beebb0db253192a019894b22b6a
+Author: kglibrarian <karen.gutzman@northwestern.edu>
+Date:   Fri Dec 24 12:58:12 2021 -0600
+
+    adding api file
+
+commit f62531b58d30f03083845f66c3ea836a0e06bd5f
+Author: kglibrarian <karen.gutzman@northwestern.edu>
+Date:   Fri Dec 24 12:57:24 2021 -0600
+
+    adding git attributes
+
+commit b6702f4ca20edeeb91e33f5466308890bf0b8ff3
+Author: Karen Gutzman <karen.gutzman@northwestern.edu>
+Date:   Fri Dec 24 12:48:18 2021 -0600
+
+    Update .gitignore
+
+commit 91f638c29e0b6b2c2ee11f7e7b0a2e7e8216b3c2
+Author: Karen Gutzman <karen.gutzman@northwestern.edu>
+Date:   Fri Dec 24 12:47:38 2021 -0600
+
+    Initial commit
